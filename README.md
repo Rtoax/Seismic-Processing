@@ -1,3 +1,9 @@
+# 地震射线追踪与有限差分正演模拟软件
+
+Copyright (C) RongTao, All right reserve.
+
+# 详情
+
 This is a software that contains seismic forward modeling, ray tracing, text editing and plotting. You can get the whole diretory&files in ```ALL.zip```
 这是一个包含了地震正演模拟，射线追踪，文本编辑和绘制曲线图的软件
 
