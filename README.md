@@ -2,6 +2,8 @@
 
 Copyright (C) RongTao, All right reserve.
 
+同步到了我的[GitEE](https://gitee.com/rtoax/Seismic-Processing)
+
 # 详情
 
 This is a software that contains seismic forward modeling, ray tracing, text editing and plotting. You can get the whole diretory&files in ```ALL.zip```
