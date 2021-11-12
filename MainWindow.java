@@ -5,6 +5,8 @@
  *     Location: UPC
  *         Time: 2017.04
  *       Modify: 2018.02 
+ *
+ *	Copyright (C) Rong Tao, all right reserve.
  */
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
