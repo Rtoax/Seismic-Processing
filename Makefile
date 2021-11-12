@@ -1,3 +1,4 @@
+# Copyright (C) Rong Tao, all right reserve.
 GCC = gcc
 JAVAC = javac
 JAVAH = javah
